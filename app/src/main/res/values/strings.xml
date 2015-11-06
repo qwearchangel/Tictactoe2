@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play_field">PlayField</string>
+    <string name="players_text_view">Number of players: </string>
+    <string name="action_exit">Exit</string>
+    <string name="action_main_menu">Main menu</string>
+    <string name="test_round_check">Round:</string>
+    <string name="action_restart">Restart</string>
+    <string name="player_turn_text_view">Player 1 turn!</string>
+</resources>
